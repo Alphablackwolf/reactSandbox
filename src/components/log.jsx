@@ -4,8 +4,7 @@ import {
     Outlet
   } from "react-router-dom";
 
-class Log extends React.Component {
-    render() {
+function Log() {
         return (
             <>
             <nav class="subnav">
