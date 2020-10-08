@@ -1,13 +1,13 @@
 import React from 'react';
 import DataService from '../services/data-service';
 
-const Vehicle = (props) => (
-    <tr>
-        <td>{props.name}</td>
-        <td>{props.year}</td>
-        <td>{props.description}</td>
-    </tr>
-);   
+//const Vehicle = (props) => (
+//    <tr>
+//        <td>{props.name}</td>
+//        <td>{props.year}</td>
+//        <td>{props.description}</td>
+//    </tr>
+//);   
 
 const VehicleList = (props) => (
     <div class="grid">
