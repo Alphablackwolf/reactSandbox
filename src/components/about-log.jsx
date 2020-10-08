@@ -1,8 +1,6 @@
 import React from 'react';
 
-class AboutLog extends React.Component {
-
-    render(){
+function AboutLog() {
         return (
             <>
             <h1>About Logs</h1>
