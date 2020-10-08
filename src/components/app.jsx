@@ -10,9 +10,9 @@ class App extends React.Component {
         return (
             <>
             <header>
-                <div class="logo">
-                    <img src="/images/logo.jpeg" alt="logo"/>
-                </div>
+                //<div class="logo">
+                    //<img src="/images/logo.jpeg" alt="logo"/>
+                //</div>
 
                 <div class="title">
                     GTI Vehicle Maintenance Log
